@@ -1,0 +1,6 @@
+{
+  "name": "PyFin2Sheets - Python Financial Model to Google Sheets Converter",
+  "description": "Transpile Python financial models into production-ready Google Apps Script functions, automated spreadsheet builders, and native Google Sheets formulas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
